@@ -1,4 +1,5 @@
 import Image from 'next/image'
+// Home page route of the application
 
 export default function Home() {
   return (
