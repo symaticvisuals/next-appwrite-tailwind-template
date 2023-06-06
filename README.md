@@ -1,4 +1,4 @@
-# Next.js Project Template
+# Next.js Project Template (Under Development)
 
 This is a Next.js project template that includes several popular libraries and frameworks, such as Tailwind CSS, Appwrite, Framer Motion, React-Icons, and Formik. This template is designed to help you quickly set up a project with these tools and is suitable for open source contributions.
 
