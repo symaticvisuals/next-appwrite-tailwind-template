@@ -12,7 +12,7 @@
     "appwrite": "^11.0.0",
     "appwrite-cli": "^2.0.2",
     "autoprefixer": "10.4.14",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "formik": "^2.4.1",
     "framer-motion": "^10.12.16",
     "next": "13.4.4",
